@@ -148,3 +148,18 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+
+## Credits
+
+Angela Yu web development course : 
+
+https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=GENAISALE24
+
+## for any questions
+
+```
+if(haveAnyQuestions === true){
+    let yourName = ".......", question = ".......";
+    sendEmailToMe(yourName,question,odedatias8115@gmail.com);
+}
+```
