@@ -6,7 +6,7 @@ Welcome to TinDog, the ultimate matchmaking platform for your beloved canine com
 
 [tinDog Website](https://odedatias.github.io/TinDog)
 
-![TinDog Preview](tindog-preview.png)
+![TinDog Preview](TinDog.png)
 
 ## Table of Contents
 
